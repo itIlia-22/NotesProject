@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">NotesProject</string>
+    <string name="notes">Notes</string>
+    <string name="Notes">notes...</string>
+    <string name="dateItem">11-11-11</string>
+    <string name="add">add</string>
+    <string name="clear">clear</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
